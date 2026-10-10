@@ -1,0 +1,9 @@
+/*
+!/README.md
+!/publication.json
+!/SHA256SUMS
+!/.gitattributes
+!/.gitignore
+!/paper/
+/paper/*
+!/paper/Wang-Lu-Levinson-2023-Equilibrium-or-imbalance-Rail-Transit-and-Land-Use-Mix-Transportation.pdf
